@@ -1,4 +1,4 @@
-FROM nginx:1.15.8
+FROM nginx:1.23.3
 
 LABEL Author "eldada@jfrog.com"
 
